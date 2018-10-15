@@ -1,0 +1,99 @@
+C:\Users\ScratchyBeatz\source\repos\Alpha\Alpha\bin\Debug\netcoreapp2.1\Alpha.deps.json
+C:\Users\ScratchyBeatz\source\repos\Alpha\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.json
+C:\Users\ScratchyBeatz\source\repos\Alpha\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.dev.json
+C:\Users\ScratchyBeatz\source\repos\Alpha\Alpha\bin\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\source\repos\Alpha\Alpha\obj\Debug\netcoreapp2.1\Alpha.csprojAssemblyReference.cache
+C:\Users\ScratchyBeatz\source\repos\Alpha\Alpha\obj\Debug\netcoreapp2.1\Alpha.csproj.CoreCompileInputs.cache
+C:\Users\ScratchyBeatz\source\repos\Alpha\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfoInputs.cache
+C:\Users\ScratchyBeatz\source\repos\Alpha\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfo.cs
+C:\Users\ScratchyBeatz\source\repos\Alpha\Alpha\bin\Debug\netcoreapp2.1\Alpha.pdb
+C:\Users\ScratchyBeatz\source\repos\Alpha\Alpha\obj\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\source\repos\Alpha\Alpha\obj\Debug\netcoreapp2.1\Alpha.pdb
+C:\Users\ScratchyBeatz\Music\Kiro-Discord Bot\Alpha\bin\Debug\netcoreapp2.1\Alpha.deps.json
+C:\Users\ScratchyBeatz\Music\Kiro-Discord Bot\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.json
+C:\Users\ScratchyBeatz\Music\Kiro-Discord Bot\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.dev.json
+C:\Users\ScratchyBeatz\Music\Kiro-Discord Bot\Alpha\bin\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\Music\Kiro-Discord Bot\Alpha\bin\Debug\netcoreapp2.1\Alpha.pdb
+C:\Users\ScratchyBeatz\Music\Kiro-Discord Bot\Alpha\obj\Debug\netcoreapp2.1\Alpha.csprojAssemblyReference.cache
+C:\Users\ScratchyBeatz\Music\Kiro-Discord Bot\Alpha\obj\Debug\netcoreapp2.1\Alpha.csproj.CoreCompileInputs.cache
+C:\Users\ScratchyBeatz\Music\Kiro-Discord Bot\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfoInputs.cache
+C:\Users\ScratchyBeatz\Music\Kiro-Discord Bot\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfo.cs
+C:\Users\ScratchyBeatz\Music\Kiro-Discord Bot\Alpha\obj\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\Music\Kiro-Discord Bot\Alpha\obj\Debug\netcoreapp2.1\Alpha.pdb
+C:\Users\ScratchyBeatz\Music\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.deps.json
+C:\Users\ScratchyBeatz\Music\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.json
+C:\Users\ScratchyBeatz\Music\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.dev.json
+C:\Users\ScratchyBeatz\Music\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\Music\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.pdb
+C:\Users\ScratchyBeatz\Music\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.csprojAssemblyReference.cache
+C:\Users\ScratchyBeatz\Music\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.csproj.CoreCompileInputs.cache
+C:\Users\ScratchyBeatz\Music\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfoInputs.cache
+C:\Users\ScratchyBeatz\Music\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfo.cs
+C:\Users\ScratchyBeatz\Music\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\Music\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.pdb
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.deps.json
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.json
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.dev.json
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.pdb
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.csprojAssemblyReference.cache
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.csproj.CoreCompileInputs.cache
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfoInputs.cache
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfo.cs
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.pdb
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-Bot;Events\Alpha\bin\Debug\netcoreapp2.1\Alpha.deps.json
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-Bot;Events\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.json
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-Bot;Events\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.dev.json
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-Bot;Events\Alpha\bin\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-Bot;Events\Alpha\bin\Debug\netcoreapp2.1\Alpha.pdb
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-Bot;Events\Alpha\obj\Debug\netcoreapp2.1\Alpha.csprojAssemblyReference.cache
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-Bot;Events\Alpha\obj\Debug\netcoreapp2.1\Alpha.csproj.CoreCompileInputs.cache
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-Bot;Events\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfoInputs.cache
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-Bot;Events\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfo.cs
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-Bot;Events\Alpha\obj\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\Music\Bot For Partners\PokeCord\Kiro-Bot;Events\Alpha\obj\Debug\netcoreapp2.1\Alpha.pdb
+C:\Users\ScratchyBeatz\Pictures\PokeCord\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.deps.json
+C:\Users\ScratchyBeatz\Pictures\PokeCord\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.json
+C:\Users\ScratchyBeatz\Pictures\PokeCord\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.dev.json
+C:\Users\ScratchyBeatz\Pictures\PokeCord\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\Pictures\PokeCord\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.pdb
+C:\Users\ScratchyBeatz\Pictures\PokeCord\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.csprojAssemblyReference.cache
+C:\Users\ScratchyBeatz\Pictures\PokeCord\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.csproj.CoreCompileInputs.cache
+C:\Users\ScratchyBeatz\Pictures\PokeCord\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfoInputs.cache
+C:\Users\ScratchyBeatz\Pictures\PokeCord\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfo.cs
+C:\Users\ScratchyBeatz\Pictures\PokeCord\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\Pictures\PokeCord\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.pdb
+C:\Users\ScratchyBeatz\Music\Bot For Partners\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.deps.json
+C:\Users\ScratchyBeatz\Music\Bot For Partners\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.json
+C:\Users\ScratchyBeatz\Music\Bot For Partners\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.dev.json
+C:\Users\ScratchyBeatz\Music\Bot For Partners\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\Music\Bot For Partners\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.pdb
+C:\Users\ScratchyBeatz\Music\Bot For Partners\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.csprojAssemblyReference.cache
+C:\Users\ScratchyBeatz\Music\Bot For Partners\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.csproj.CoreCompileInputs.cache
+C:\Users\ScratchyBeatz\Music\Bot For Partners\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfoInputs.cache
+C:\Users\ScratchyBeatz\Music\Bot For Partners\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfo.cs
+C:\Users\ScratchyBeatz\Music\Bot For Partners\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\Music\Bot For Partners\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.pdb
+C:\Users\ScratchyBeatz\Music\Magic\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.deps.json
+C:\Users\ScratchyBeatz\Music\Magic\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.json
+C:\Users\ScratchyBeatz\Music\Magic\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.dev.json
+C:\Users\ScratchyBeatz\Music\Magic\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\Music\Magic\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.pdb
+C:\Users\ScratchyBeatz\Music\Magic\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.csprojAssemblyReference.cache
+C:\Users\ScratchyBeatz\Music\Magic\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.csproj.CoreCompileInputs.cache
+C:\Users\ScratchyBeatz\Music\Magic\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfoInputs.cache
+C:\Users\ScratchyBeatz\Music\Magic\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfo.cs
+C:\Users\ScratchyBeatz\Music\Magic\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\Music\Magic\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.pdb
+C:\Users\ScratchyBeatz\Documents\[]MY Discord Bots\Events\FunnyBunny[File For Edits]\Magic\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.deps.json
+C:\Users\ScratchyBeatz\Documents\[]MY Discord Bots\Events\FunnyBunny[File For Edits]\Magic\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.json
+C:\Users\ScratchyBeatz\Documents\[]MY Discord Bots\Events\FunnyBunny[File For Edits]\Magic\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.runtimeconfig.dev.json
+C:\Users\ScratchyBeatz\Documents\[]MY Discord Bots\Events\FunnyBunny[File For Edits]\Magic\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\Documents\[]MY Discord Bots\Events\FunnyBunny[File For Edits]\Magic\Kiro-DiscordBot Event commands\Alpha\bin\Debug\netcoreapp2.1\Alpha.pdb
+C:\Users\ScratchyBeatz\Documents\[]MY Discord Bots\Events\FunnyBunny[File For Edits]\Magic\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.csprojAssemblyReference.cache
+C:\Users\ScratchyBeatz\Documents\[]MY Discord Bots\Events\FunnyBunny[File For Edits]\Magic\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.csproj.CoreCompileInputs.cache
+C:\Users\ScratchyBeatz\Documents\[]MY Discord Bots\Events\FunnyBunny[File For Edits]\Magic\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfoInputs.cache
+C:\Users\ScratchyBeatz\Documents\[]MY Discord Bots\Events\FunnyBunny[File For Edits]\Magic\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.AssemblyInfo.cs
+C:\Users\ScratchyBeatz\Documents\[]MY Discord Bots\Events\FunnyBunny[File For Edits]\Magic\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.dll
+C:\Users\ScratchyBeatz\Documents\[]MY Discord Bots\Events\FunnyBunny[File For Edits]\Magic\Kiro-DiscordBot Event commands\Alpha\obj\Debug\netcoreapp2.1\Alpha.pdb
